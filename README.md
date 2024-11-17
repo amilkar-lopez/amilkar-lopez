@@ -59,8 +59,8 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
-  <img src="https://svgmix.com/uploads/8b76ef-xray-for-jira.svg" title="Xray" **alt="Azure DevOps" width="55" height="55"/>
-  <img src="https://cdn-public.softwarereviews.com/production/logos/offerings/7357/large/TestRail_Logo_Main_02_2x.png?1685546317" title="Testrail" **alt="Azure DevOps" width="55" height="55"/>
+  <img src="https://svgmix.com/uploads/8b76ef-xray-for-jira.svg" title="Xray" **alt="Azure DevOps" width="52" height="52"/>
+  <img src="https://cdn-public.softwarereviews.com/production/logos/offerings/7357/large/TestRail_Logo_Main_02_2x.png?1685546317" title="Testrail" **alt="Testrail" width="40" height="40"/>
 
   
 
